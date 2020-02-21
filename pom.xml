@@ -12,6 +12,7 @@
 	<artifactId>LoginWebApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>LoginWebApp</name>
+	<packaging>war</packaging>
 	<description>spring web project for Spring Boot</description>
 
 	<properties>
